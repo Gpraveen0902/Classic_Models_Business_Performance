@@ -39,6 +39,3 @@ The Power BI dashboard is split into two main views:
    - Monthly sales trend  
    - High-selling vs low-selling products  
 
----
-
-## 📂 Project Structure  
