@@ -32,10 +32,11 @@ The Power BI dashboard is split into two main views:
    - Total revenue, profit, and margins  
    - Top customers and revenue by country  
    - Monthly payment trend  
-   - Inactive customers and pending payments  
+   - Inactive customers and pending payments
+   ![Dashboard](Dashboard/Power_BI_Screenshot/Screenshot2025-09-06132222.png)
 
 2. **Sales & Products Dashboard**  
    - Total sales volume and profit by product line  
    - Monthly sales trend  
    - High-selling vs low-selling products  
-
+   ![Dashboard](Dashboard/Power_BI_Screenshot/Screenshot2025-09-06132206.png)
