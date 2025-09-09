@@ -1,4 +1,4 @@
-# 📊 Classic Models Business Performance Dashboard  
+# 📊 Classic Models Business Performance Analysis
 
 ## 🔹 Project Overview  
 This project analyzes the **ClassicModels** sample database using **SQL** for data extraction and **Power BI** for visualization.  
